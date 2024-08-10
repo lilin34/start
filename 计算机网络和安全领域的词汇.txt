@@ -1,0 +1,172 @@
+计算机网络和安全领域的词汇
+
+网络基础：
+1.Network:网络
+2.Protocol:协议
+3.Internet Protocol（IP）:互联网协议
+4.Transmission Control Protocol（TCP）:传输控制协议
+5.User Datagram Protocol（UDP）：用户数据报协议
+6.Hypertext Transfer Protocol（HTTP):超文本传输协议
+7.File Transfer Protocol（FTP):文本传输协议
+8.Secure Shell（SSH):安全外壳协议
+9.Domain Name System（DNS):域名系统
+10.Router:路由器
+11.Switch:交换机
+12.Gateway:网关
+13.Modem：调制解调器
+14.Internet Service Provider（ISP):互联网服务提供商
+15.LAN(Local Area Network):局域网
+16.WAN(Wide Area Network):广域网
+17.MAN(Metropolitan Area Network):城域网
+18.Wi-Fi:无线网络
+19.Ethernet:以太网
+20.MAC Address:MAC地址
+21.  IP Address: IP地址
+22.Subnet Mask: 子网掩码
+23.Network Interface Card (NIC): 网络接口卡
+24.Bandwidth: 带宽
+25.Latency: 延迟
+26.Packet: 数据包
+27.Firewall: 防火墙
+28.NAT (Network Address Translation): 网络地址转换
+29.VPN (Virtual Private Network): 虚拟私人网络
+30.Proxy Server: 代理服务器
+
+网络安全:
+1.Cryptography: 密码学
+2.Encryption: 加密
+3.Decryption: 解密
+4.Symmetric Encryption: 对称加密
+5.Asymmetric Encryption: 非对称加密
+6.Public Key: 公钥
+7.Private Key: 私钥
+8.TLS (Transport Layer Security): 传输层安全
+9.SSL (Secure Sockets Layer): 安全套接层
+10.Digital Certificate: 数字证书
+11.Certificate Authority (CA): 证书颁发机构
+12.Authentication: 认证
+13.Authorization: 授权
+14.Access Control: 访问控制
+15.Security Policy: 安全策略
+16.Intrusion Detection System (IDS): 入侵检测系统
+17.Intrusion Prevention System (IPS): 入侵预防系统
+18.Antivirus: 杀毒软件
+19.Malware: 恶意软件
+20.Virus: 病毒
+21.Worm: 蠕虫
+22.Trojan Horse: 木马
+23.Spyware: 间谍软件
+24.Adware: 广告软件
+25.Ransomware: 勒索软件
+26.Phishing: 网络钓鱼
+27.DDoS Attack (Distributed Denial of Service): 分布式拒绝服务攻击
+28.Brute Force Attack: 暴力破解攻击
+29.Exploit: 漏洞利用
+30.Patch: 补丁
+31.Security Audit: 安全审计
+32.Penetration Testing: 渗透测试
+33.Zero-Day Attack: 零日攻击
+34.Cybersecurity: 网络安全
+
+安全威胁与攻击类型:
+1.Social Engineering: 社会工程学
+2.Phishing: 钓鱼攻击
+3.Spear Phishing: 鱼叉式钓鱼攻击
+4.Whaling: 鲸鱼攻击（针对高级别个人的钓鱼攻击）
+5.Man-in-the-Middle Attack (MitM): 中间人攻击
+6.Drive-by Download: 驱动器下载攻击
+7.Cross-Site Scripting (XSS): 跨站脚本攻击
+8.Cross-Site Request Forgery (CSRF): 跨站请求伪造
+9.SQL Injection: SQL注入
+10.Remote Code Execution (RCE): 远程代码执行
+11.Buffer Overflow: 缓冲区溢出
+12.Session Hijacking: 会话劫持
+13.Credential Stuffing: 凭据填充攻击
+14.Rootkit: 根套件
+15.Logic Bomb: 逻辑炸弹
+16.Backdoor: 后门
+17.Botnet: 僵尸网络
+18.Ransomware: 勒索软件
+19.Advanced Persistent Threat (APT): 高级持续性威胁
+
+防御机制与工具:
+1.Firewall: 防火墙
+2.Antivirus Software: 杀毒软件
+3.Anti-Spyware: 反间谍软件
+4.Intrusion Detection System (IDS): 入侵检测系统
+5.Intrusion Prevention System (IPS): 入侵预防系统
+6.Security Information and Event Management (SIEM): 安全信息和事件管理
+7.Unified Threat Management (UTM): 统一威胁管理
+8.Data Loss Prevention (DLP): 数据丢失预防
+9.Endpoint Detection and Response (EDR): 端点检测和响应
+10.Network Access Control (NAC): 网络访问控制
+11.Sandboxing: 沙箱技术
+12.Virtual Private Network (VPN): 虚拟私人网络
+13.Web Application Firewall (WAF): 网页应用防火墙
+14.Encryption Tools: 加密工具
+15.Multi-Factor Authentication (MFA): 多因素认证
+16.Public Key Infrastructure (PKI): 公钥基础设施
+
+安全标准与规范:
+1.ISO/IEC 27001: 国际标准化组织的信息安全管理系统标准
+2.NIST Cybersecurity Framework: 美国国家标准与技术研究院的网络安全框架
+3.PCI DSS (Payment Card Industry Data Security Standard): 支付卡行业数据安全标准
+4.HIPAA (Health Insurance Portability and Accountability Act): 健康保险流通与责任法案
+5.GDPR (General Data Protection Regulation): 通用数据保护条例
+6.Sarbanes-Oxley Act: 萨班斯-奥克斯利法案
+7.FISMA (Federal Information Security Management Act): 联邦信息安全管理法案
+
+加密技术:
+1.Symmetric Encryption: 对称加密
+2.Asymmetric Encryption: 非对称加密
+3.Hash Function: 哈希函数
+4.Digital Signature: 数字签名
+5.Certificate Authority (CA): 证书颁发机构
+6.Digital Certificate: 数字证书
+7.Public Key Infrastructure (PKI): 公钥基础设施
+8.SSL/TLS Certificates: 安全套接层/传输层安全协议证书
+9.Encryption Algorithm: 加密算法
+10.RSA (Rivest–Shamir–Adleman): 一种广泛使用的非对称加密算法
+11.AES (Advanced Encryption Standard): 高级加密标准，一种对称加密算法
+12.DES (Data Encryption Standard): 数据加密标准，被AES所替代
+13.3DES (Triple Data Encryption Algorithm): 三重数据加密算法
+14.ECC (Elliptic Curve Cryptography): 椭圆曲线密码学
+15.Diffie-Hellman: 一种密钥交换协议
+16.Message Digest: 消息摘要
+17.SHA (Secure Hash Algorithm): 安全哈希算法
+18.MD5 (Message-Digest Algorithm 5): 消息摘要算法5
+19.Nonce: 一次性数字
+20.Salt: 在密码学中，用于加密的随机数据
+21.Cipher: 密码
+22.Key Exchange: 密钥交换
+23.Key Management: 密钥管理
+24.Homomorphic Encryption: 同态加密
+25.Quantum Cryptography: 量子密码学
+
+合规性与法规:
+1.Compliance: 合规性
+2.Risk Assessment: 风险评估
+3.Audit Trail: 审计追踪
+4.Security Governance: 安全治理
+5.Incident Response Plan: 事件响应计划
+6.Data Breach Notification: 数据泄露通知
+
+隐私保护:
+1.Privacy: 隐私
+2.Anonymization: 匿名化
+3.Pseudonymization: 伪匿名化
+4.Data Masking: 数据脱敏
+5.Data Retention: 数据保留
+6.Data Sovereignty: 数据主权
+
+安全培训:
+1.Security Awareness Training: 安全意识培训
+2.Phishing Simulation: 钓鱼模拟
+3.Security Best Practices: 安全最佳实践
+4.User Behavior Analytics (UBA): 用户行为分析
+这些术语覆盖了加密技术的多个方面，从基本的加密和哈希算法到复杂的安全系统和合规性要求。了解这些概念对于实现有效的网络安全策略至关重要。
+————————————————
+
+                            版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
+                        
+原文链接：https://blog.csdn.net/hebtu666/article/details/139704966
